@@ -51,7 +51,8 @@ div.text > p#BG_yellow {
     padding: .4rem;
     margin-top: .8rem;
     margin-bottom: .8rem;
-    border-radius: 10px;
+    border-radius: 2px;
+    font-weight: bolder;
     
 }
 
