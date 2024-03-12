@@ -27,7 +27,6 @@ body {
     cursor: pointer;
     transition: 4s;    
 
-    font-size: clamp(.5rem, 1em + 1vw, 1em);
 }
 
 /* .container:hover {
